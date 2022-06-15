@@ -1,2 +1,4 @@
 class TopController < ApplicationController
+
+
 end
